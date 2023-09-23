@@ -1,7 +1,7 @@
 #include <Windows.h>
 #include <tchar.h>
 
-https://www.codeproject.com/Articles/499465/Simple-Windows-Service-in-Cplusplus
+//https://www.codeproject.com/Articles/499465/Simple-Windows-Service-in-Cplusplus
 
 SERVICE_STATUS        g_ServiceStatus = {0};
 SERVICE_STATUS_HANDLE g_StatusHandle = NULL;
